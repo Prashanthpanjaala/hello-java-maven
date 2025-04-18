@@ -6,7 +6,7 @@ This XML file does not appear to have any style information associated with it. 
 <artifactId>myweb</artifactId>
 <packaging>war</packaging>
 <version>8.6.9</version>
-<name>Java Home myweb</name>
+<name>hello-java-maven</name>
 <url>http://maven.apache.org</url>
 <properties>
 <docker.image.prefix>kammana</docker.image.prefix>
